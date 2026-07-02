@@ -44,8 +44,8 @@
   - [dotenv package](https://www.npmjs.com/package/dotenv)
   - [Node.js process.env - Node.js Docs](https://nodejs.org/api/process.html#process_process_env)
 - **Deliverables & Tasks:**
-  - [ ] Initialize a Node.js + TypeScript project structure (`tsconfig.json`, scripts).
-  - [ ] Define core TypeScript interfaces and types for application models.
+  - [x] Initialize a Node.js + TypeScript project structure (`tsconfig.json`, scripts).
+  - [x] Define core TypeScript interfaces and types for application models.
   - [ ] Write an asynchronous script demonstrating non-blocking file system (`fs`) operations (reading/writing JSON data).
   - [ ] Implement robust error handling (`try...catch`) around asynchronous operations.
   - [ ] Build a simple HTTP server serving mock data that loads configuration (like `PORT`) from a `.env` file using `dotenv`.
