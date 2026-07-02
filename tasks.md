@@ -46,9 +46,9 @@
 - **Deliverables & Tasks:**
   - [x] Initialize a Node.js + TypeScript project structure (`tsconfig.json`, scripts).
   - [x] Define core TypeScript interfaces and types for application models.
-  - [ ] Write an asynchronous script demonstrating non-blocking file system (`fs`) operations (reading/writing JSON data).
-  - [ ] Implement robust error handling (`try...catch`) around asynchronous operations.
-  - [ ] Build a simple HTTP server serving mock data that loads configuration (like `PORT`) from a `.env` file using `dotenv`.
+  - [x] Write an asynchronous script demonstrating non-blocking file system (`fs`) operations (reading/writing JSON data).
+  - [x] Implement robust error handling (`try...catch`) around asynchronous operations.
+  - [x] Build a simple HTTP server serving mock data that loads configuration (like `PORT`) from a `.env` file using `dotenv`.
 
 #### Week 3.0: Understanding the Web, HTTP & Introduction to NestJS
 - **Focus Area:** Internet architecture (DNS, TCP/IP), HTTP methods/headers, client-server model, and NestJS scaffolding.

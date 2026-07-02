@@ -1,5 +1,5 @@
-import type User from "./Users"
-interface Task {
+import type { User } from "./Users.js"
+export interface Task {
 	id: string;
 	taskName: string;
 	taskDetails: string;
@@ -7,4 +7,3 @@ interface Task {
 	startTime: Date;
 	endTime: Date;
 }
-export default Task

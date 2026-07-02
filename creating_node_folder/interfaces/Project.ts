@@ -1,6 +1,6 @@
-import type Task from "./Task";
+import type { Task } from "./Task.js";
 
-interface Project {
+export interface Project {
 	id: string
 	projectName: string;
 	detail: string;
@@ -14,4 +14,3 @@ interface Project {
 	tasks: Task[];
 }
 
-export default Project;
