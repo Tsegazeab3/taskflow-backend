@@ -1,1 +1,9 @@
-./creating_node_folder/node_modules
+node_modules/
+**/node_modules/
+.env
+.env.local
+.env.*.local
+dist/
+build/
+out/
+Backend_Internship_Milestone_Tracker_NestJS.xlsx
